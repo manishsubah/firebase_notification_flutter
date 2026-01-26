@@ -26,8 +26,6 @@ class HomeRoute extends PageRouteInfo<void> {
   );
 }
 
-/// generated route for
-/// [LoginPage]
 class LoginRoute extends PageRouteInfo<LoginRouteArgs> {
   LoginRoute({Key? key, String? reason, List<PageRouteInfo>? children})
     : super(
